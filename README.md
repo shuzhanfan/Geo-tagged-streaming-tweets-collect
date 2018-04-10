@@ -1,4 +1,4 @@
-# Twitter Streaming Collection
+# Geo-tagged-streaming-tweets-collect
 
 The scripts can download and store Geo-tagged Twitter streaming messages into a database using a python package called [Tweepy](http://www.tweepy.org). It connects to the [Twitter official streaming API][] and downloads data. You need to specify the twitter apps account credentials, the mongodb host, and the location coordinates in the config file before run the scripts. The downloaded tweets will then be saved into a database, either MySQL or MongoDB.
 
