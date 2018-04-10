@@ -1,0 +1,14 @@
+[Keys]
+consumer_key    = ___INSERT YOUR COMSUMER KEY___
+consumer_serect = ___INSERT YOUR CONSUMER KEY___
+access_token    = ___INSERT YOUR CONSUMER KEY___
+access_secret   = ___INSERT YOUR CONSUMER KEY___
+
+[Mongodb]
+host            = ___INSERT YOUR HOST___
+
+[Area]
+south           = 37.7010
+west            = -122.5180
+north           = 37.8350
+east            = -122.3580
